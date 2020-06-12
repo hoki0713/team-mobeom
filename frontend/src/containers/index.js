@@ -5,5 +5,5 @@ import BoardContainer from './BoardContainer';
 export { 
     SplashPageContainer,
     MapContainer,
-    BoardContainer  
+    BoardContainer   
 };
