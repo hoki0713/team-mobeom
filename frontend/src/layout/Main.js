@@ -1,10 +1,17 @@
-import React from 'react';
-import { Route } from 'react-router-dom';
+import React from "react";
+import { Route } from "react-router-dom";
 
-import { MapContainer } from '../containers';
+import { MapContainer, BoardContainer } from "../containers";
 
 const Main = () => (
-    <Route path="/map"><MapContainer /></Route>
-)
+  <>
+    <Route path="/map">
+      <MapContainer />
+    </Route>
+    <Route path="/board">
+      <BoardContainer />
+    </Route>
+  </>
+);
 
 export default Main;

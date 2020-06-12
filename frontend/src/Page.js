@@ -1,7 +1,7 @@
 import React from "react";
 import { Switch, Route } from "react-router-dom";
 import { SplashPageContainer } from "./containers";
-import { Header, NavBar, Main, Footer } from './layout';
+import { Header, NavBar, Main } from './layout';
 
 const Page = () => (
   <Switch>
@@ -12,7 +12,6 @@ const Page = () => (
         <Header />
         <NavBar />
         <Main />
-        <Footer />
     </Route>
   </Switch>
 );
