@@ -36,8 +36,12 @@ const Header = () => (
         </InputGroup>
       </Col>
       <Col xs lg="2" className="mx-auto mt-5">
-        <Button variant="btn-link btn-sm">로그인</Button>
-        <Button variant="btn-link btn-sm">회원가입</Button>
+        <Link to="/account/login">
+          <Button variant="btn-link btn-sm">로그인</Button>
+        </Link>
+        <Link to="/account/term-n-condition">
+          <Button variant="btn-link btn-sm">회원가입</Button>
+        </Link>
       </Col>
     </Row>
   </Container>

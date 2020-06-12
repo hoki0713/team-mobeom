@@ -1,7 +1,7 @@
 import React from "react";
 import { Route } from "react-router-dom";
 
-import { MapContainer, BoardContainer } from "../containers";
+import { MapContainer, BoardContainer, AccountContainer } from "../containers";
 
 const Main = () => (
   <>
@@ -10,6 +10,9 @@ const Main = () => (
     </Route>
     <Route path="/board">
       <BoardContainer />
+    </Route>
+    <Route path="/account">
+      <AccountContainer />
     </Route>
   </>
 );

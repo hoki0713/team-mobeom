@@ -1,14 +1,19 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import { Container, Nav } from "react-bootstrap";
 
 const MainTopNav = () => (
   <Container>
     <Nav className="justify-content-end" activeKey="/home">
       <Nav.Item>
-        <Nav.Link to="/">Sign In</Nav.Link>
+        <Link to="/account/login" className="nav-link">
+          로그인
+        </Link>
       </Nav.Item>
       <Nav.Item>
-        <Nav.Link to="/">Sign Up</Nav.Link>
+        <Link to="/account/term-n-condition" className="nav-link">
+          회원가입
+        </Link>
       </Nav.Item>
       <Nav.Item>
         <Nav.Link to="/">
@@ -26,7 +31,6 @@ const MainTopNav = () => (
           />
         </Nav.Link>
       </Nav.Item>
-
     </Nav>
   </Container>
 );
