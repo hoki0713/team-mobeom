@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="befe60f1-5d85-4b9f-a13b-9aec7e30db87" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/Page.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/Page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/containers/AccountContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/containers/AccountContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/containers/BoardContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/containers/BoardContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/containers/MapContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/containers/MapContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/containers/SplashPageContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/containers/SplashPageContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/containers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/containers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/layout/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/layout/Main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/layout/footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/layout/footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/layout/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/layout/header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/layout/navbar/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/layout/navbar/NavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/account/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/account/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/account/TermAndCondition.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/account/TermAndCondition.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/board/NoticeBoard.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/board/NoticeBoard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/board/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/board/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/board/localcurrency/BuyLocalCurrency.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/board/localcurrency/BuyLocalCurrency.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/board/recommendation/Recommendation.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/board/recommendation/Recommendation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/board/recommendation/SearchByTag.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/board/recommendation/SearchByTag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/map/FindBestRoute.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/map/FindBestRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/map/Map.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/map/Map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/map/MapList.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/map/MapList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/splash-page/MainLogo.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/splash-page/MainLogo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/splash-page/MainMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/splash-page/MainMap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/splash-page/MainSearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/splash-page/MainSearchBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/pages/splash-page/MainTopNav.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/splash-page/MainTopNav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/serviceWorker.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eDZq2NU80Yw8AT6sFlOGSfmwr6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="befe60f1-5d85-4b9f-a13b-9aec7e30db87" name="Default Changelist" comment="" />
+      <created>1593858310390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593858310390</updated>
+      <workItem from="1593858504156" duration="192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="260" key="FileChooserDialogImpl" timestamp="1593858660921">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="260" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593858660921" />
+    <state x="2259" y="180" key="new project wizard" timestamp="1593858694069">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2259" y="180" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593858694069" />
+  </component>
+</project>

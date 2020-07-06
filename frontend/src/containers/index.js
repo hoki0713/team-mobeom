@@ -3,7 +3,7 @@ import MapContainer from './MapContainer.js';
 import BoardContainer from './BoardContainer';
 import AccountContainer from './AccountContainer';
 
-export { 
+export {
     SplashPageContainer,
     MapContainer,
     BoardContainer,
